@@ -1,2 +1,2 @@
-# 蓝海 BlueSea
-DOMAIN,py.embyplus.club
+德鸡tuic = tuic-v5, frkf.clare886.cf, 43924, password=50961bff-74bb-4268-95c7-5e768f85d86c, uuid=50961BFF-74BB-4268-95C7-5E768F85D86C, alpn=h3, disable-sni=true, reduce-rtt=true, udp-relay-mode=native, congestion-controller=bbr
+首尔tuic = tuic-v5, seoul1.clare88.gq, 12321, password=e11f75c3-7831-4f8b-950e-8c7818dcd19d, uuid=e11f75c3-7831-4f8b-950e-8c7818dcd19d, alpn=h3, disable-sni=true, reduce-rtt=true, udp-relay-mode=native, congestion-controller=bbr
